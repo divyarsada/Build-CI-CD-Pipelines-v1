@@ -1,4 +1,4 @@
-## sample jenkins pipeline on aws
+## sample-jenkins-pipeline-on-aws
 
 ### Project overview
 
